@@ -1,0 +1,7 @@
+﻿  ConsoleApplication4.cpp
+C:\Users\pasin\source\repos\ConsoleApplication4\ConsoleApplication4\ConsoleApplication4.cpp(176,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\pasin\source\repos\ConsoleApplication4\ConsoleApplication4\ConsoleApplication4.cpp(209,9): warning C4101: pick_time: неиспользованная локальная переменная
+C:\Users\pasin\source\repos\ConsoleApplication4\ConsoleApplication4\ConsoleApplication4.cpp(207,6): warning C4101: experience: неиспользованная локальная переменная
+C:\Users\pasin\source\repos\ConsoleApplication4\ConsoleApplication4\ConsoleApplication4.cpp(206,6): warning C4101: age: неиспользованная локальная переменная
+C:\Users\pasin\source\repos\ConsoleApplication4\ConsoleApplication4\ConsoleApplication4.cpp(23): warning C4715: car_choice: значение возвращается не при всех путях выполнения
+  ConsoleApplication4.vcxproj -> C:\Users\pasin\source\repos\ConsoleApplication4\Debug\ConsoleApplication4.exe
